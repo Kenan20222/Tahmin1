@@ -5,7 +5,7 @@
 <!-- PROJE LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sirincay/TeslaGameV1">
+  <a href="https:https://github.com/Kenan20222/Tahmin1">
     <img src="img/tesla.png" alt="Logo" width="500" height="320">
   </a>
 
@@ -35,7 +35,7 @@ Eski Alt Versiyon Projesi GitHub'da Kullanıcılara Açık Sunuldu.</b>
 
 1. Reponu Klonlayın
    ```sh
-   git clone https://github.com/sirincay/TeslaGameV1
+   git clone https://github.com/Kenan20222/Tahmin1
    cd TeslaGameV1
    ```
 2. Telegraf,Environment Paketleri İndirin
